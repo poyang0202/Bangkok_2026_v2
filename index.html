@@ -1404,7 +1404,7 @@
       const jsons = await Promise.all(responses.map(r => r.json()));
       const days = jsons.slice(0, 6);
       const checklist = jsons[6];
-      const config = jsons[6];
+      const config = jsons[7];
       DAYS = days;
       GTASKS = checklist.GTASKS;
       SHOP_DEF = checklist.SHOP_DEF;
