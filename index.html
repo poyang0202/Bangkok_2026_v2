@@ -8,7 +8,7 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="apple-mobile-web-app-title" content="Tokyo 2026">
   <meta name="theme-color" content="#0a0910">
-  <title>🗼 TOKYO Birthday & Hanabi 2026</title>
+  <title>🇹🇭 Bangkok 曼谷之旅</title>
   <link rel="manifest" href="manifest.json">
   <link rel="apple-touch-icon" href="icon.png?v=105">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -1391,7 +1391,7 @@
     const SW_CACHE_NAME = 'trip-console-v1'; // 要跟 sw.js 裡的 CACHE_NAME 保持一致
 
     async function loadData() {
-      const dayFiles = Array.from({ length: 8 }, (_, i) => `data/day${i + 1}.json`);
+      const dayFiles = Array.from({ length: 6 }, (_, i) => `data/day${i + 1}.json`);
       const dataFiles = [...dayFiles, 'data/checklist.json', 'data/config.json'];
       const responses = await Promise.all(dataFiles.map(f => fetch(f)));
       // clone 要在讀取 body 之前、同步做完，不然會跟下面的 r.json() 搶讀同一個 body 而出錯
