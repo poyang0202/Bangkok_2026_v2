@@ -1402,9 +1402,9 @@
         caches.open(SW_CACHE_NAME).then(cache => cacheClones.forEach((res, i) => cache.put(dataFiles[i], res)));
       }
       const jsons = await Promise.all(responses.map(r => r.json()));
-      const days = jsons.slice(0, 8);
-      const checklist = jsons[8];
-      const config = jsons[9];
+      const days = jsons.slice(0, 6);
+      const checklist = jsons[6];
+      const config = jsons[6];
       DAYS = days;
       GTASKS = checklist.GTASKS;
       SHOP_DEF = checklist.SHOP_DEF;
