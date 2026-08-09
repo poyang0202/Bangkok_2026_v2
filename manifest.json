@@ -1,0 +1,16 @@
+{
+  "name": "曼谷 2026 旅遊行程",
+  "short_name": "Bangkok 2026",
+  "start_url": "/Bangkok_2026_v2/",
+  "display": "standalone",
+  "background_color": "#0a0910",
+  "theme_color": "#0a0910",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.png?v=1",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

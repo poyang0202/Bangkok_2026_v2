@@ -1,0 +1,63 @@
+{
+  "day": 3,
+  "date": "9/26",
+  "wd": "週六",
+  "cities": [
+    "曼谷"
+  ],
+  "hotel": "曼谷市區飯店（請填入實際飯店名稱）",
+  "highlight": "曼谷大皇宮,玉佛寺,老城區",
+  "items": [
+    {
+      "id": "3-1",
+      "time": "09:00",
+      "icon": "📍",
+      "title": "曼谷大皇宮+玉佛寺",
+      "area": "曼谷",
+      "trs": "🚕飯店搭車20-30分鐘",
+      "desc": "服裝規定嚴格:不可穿短褲、無袖上衣、拖鞋,建議長褲/長裙,現場有租借罩衫服務但會排隊。",
+      "mapUrl": "https://maps.app.goo.gl/4bjD8nkMxyhvyoLW7",
+      "hours": "08:30-15:30",
+      "mustEat": [
+        {
+          "name": "玉佛寺主殿 — 必須拖鞋，主殿禁止拍照"
+        }
+      ]
+    },
+    {
+      "id": "3-2",
+      "time": "12:00",
+      "icon": "🍜",
+      "title": "EmSphere Mall",
+      "area": "曼谷",
+      "desc": "待查。"
+    },
+    {
+      "id": "3-3",
+      "time": "14:00",
+      "icon": "📍",
+      "title": "Song Wat Road 老城區",
+      "area": "曼谷",
+      "mustEat": [
+        {
+          "name": "SAAN Songwat — 選物店"
+        },
+        {
+          "name": "Vanich House — 由一家舊汽車零件修理廠改造而成的復古咖啡選物店"
+        },
+        {
+          "name": "Groob Glace.bkk — 冰淇淋"
+        },
+        {
+          "name": "Slow Butter — 咖啡廳，可頌必吃!"
+        },
+        {
+          "name": "Ware House 30 — 倉庫改建選物店"
+        },
+        {
+          "name": "Hourse Unit — 服飾選物店"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "day": 2,
+  "date": "9/25",
+  "wd": "週五",
+  "cities": [
+    "曼谷"
+  ],
+  "hotel": "曼谷市區飯店（請填入實際飯店名稱）",
+  "highlight": "鄭王廟、ICONSIAM暹羅天地、湄南河郵輪體驗",
+  "items": [
+    {
+      "id": "2-1",
+      "time": "09:00",
+      "icon": "📍",
+      "title": "鄭王廟+泰服體驗",
+      "area": "曼谷",
+      "trs": "🚕 飯店搭車約 20-30 分鐘",
+      "desc": "服裝規定嚴格:不可穿短褲、無袖上衣、拖鞋,建議長褲/長裙,現場有租借罩衫服務但會排隊。門票約 200 泰銖。",
+      "mapUrl": "https://maps.app.goo.gl/NYwhhCeSak3TrxwYA",
+      "hours": "08:00-18:00",
+      "mustEat": [
+        {
+          "name": "由數百萬片陶瓷與貝殼拼貼出的82公尺主塔 — 泰國艾菲爾鐵塔之稱"
+        }
+      ]
+    },
+    {
+      "id": "2-2",
+      "time": "12:00",
+      "icon": "🍜",
+      "title": "午餐 - ICONSIAM暹羅天地美食街",
+      "area": "曼谷",
+      "mustEat": [
+        {
+          "name": "SookSiam 美食街 — ICONSIAM GF／UG 泰國第一個室內的水上市場 SookSiam 美食街"
+        },
+        {
+          "name": "Alangkarn 美食街 — ICSONSIAM 6F 熱帶雨林主題美食街，室內瀑布"
+        }
+      ]
+    },
+    {
+      "id": "2-3",
+      "time": "14:00",
+      "icon": "📍",
+      "title": "ICONSIAM暹羅天地",
+      "area": "曼谷",
+      "trs": "⛴️鄭王廟搭渡輪10分中",
+      "mapUrl": "https://maps.app.goo.gl/YDtX3fuJjWkgvbjt7",
+      "hours": "10:00-22:00",
+      "mustEat": [
+        {
+          "name": "Dear Tummy (G樓) — HandyHerb酵素軟糖/便便軟糖、Siam's Royal 芒果乾(蜂蜜芒果、巧克力、萊姆酒)、Mungkorn船麵泡麵、Lays麵康口味、LADRACH巧克力、ICONCRAFT選物店(Hamblepie刺繡包)"
+        }
+      ]
+    },
+    {
+      "id": "2-4",
+      "time": "19:00",
+      "icon": "📍",
+      "title": "湄南河遊輪體驗",
+      "area": "曼谷",
+      "trs": "⛴️ 在ICONSIAM上船",
+      "desc": "昭披耶公主號 Chao Phraya Princess、大珍珠號 Grand Pearl、璀璨明珠號 Wonderful Pearl、白蘭花號 White Orchid。待確認",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Wat+Arun+Bangkok",
+      "hours": "08:00-18:00"
+    }
+  ]
+}

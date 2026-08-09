@@ -1,0 +1,39 @@
+{
+  "day": 1,
+  "date": "9/24",
+  "wd": "週四",
+  "cities": [
+    "曼谷"
+  ],
+  "hotel": "曼谷市區飯店（請填入實際飯店名稱）",
+  "highlight": "去程航班日,晚班機抵達,入住休息",
+  "items": [
+    {
+      "id": "1-1",
+      "time": "19:55",
+      "icon": "🚕",
+      "title": "去程航班起飛",
+      "area": "曼谷",
+      "trs": "✈️ 飛行時間約 2 小時 45 分",
+      "desc": "建議提前 3 小時抵達機場辦理登機、托運行李。"
+    },
+    {
+      "id": "1-2",
+      "time": "22:40",
+      "icon": "🚕",
+      "title": "抵達曼谷 BKK 蘇凡納布機場",
+      "area": "曼谷",
+      "trs": "入境審查 + 提領行李約需 40-60 分鐘",
+      "desc": "抵達前記得先上網填寫泰國 TDAC 電子入境卡(Thailand Digital Arrival Card),入境會快很多。出關後可搭機場快線(ARL)或 Grab 前往市區飯店。",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Suvarnabhumi+Airport"
+    },
+    {
+      "id": "1-3",
+      "time": "23:30",
+      "icon": "🏨",
+      "title": "抵達飯店、辦理入住、休息",
+      "area": "曼谷",
+      "desc": "第一天不安排行程,好好休息,養精蓄銳準備明天古城區踩點。"
+    }
+  ]
+}

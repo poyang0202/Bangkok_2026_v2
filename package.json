@@ -1,0 +1,10 @@
+{
+  "name": "trip-console",
+  "version": "1.0.0",
+  "private": true,
+  "description": "旅遊行程 PWA",
+  "scripts": {
+    "dev": "npx --yes serve .",
+    "start": "npx --yes serve ."
+  }
+}

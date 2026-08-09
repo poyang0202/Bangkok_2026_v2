@@ -1,0 +1,75 @@
+{
+  "day": 5,
+  "date": "9/28",
+  "wd": "週一",
+  "cities": [
+    "曼谷"
+  ],
+  "hotel": "曼谷市區飯店（請填入實際飯店名稱）",
+  "highlight": "自由安排",
+  "items": [
+    {
+      "id": "5-1",
+      "time": "09:00",
+      "icon": "📍",
+      "title": "Enjoy in the hotel",
+      "area": "曼谷"
+    },
+    {
+      "id": "5-2",
+      "time": "10:00",
+      "icon": "🍜",
+      "title": "KRAZ Sathorn",
+      "area": "曼谷",
+      "trs": "🚕搭車10分鐘",
+      "desc": "正宗法式薄餅",
+      "mapUrl": "https://maps.app.goo.gl/RT5ugnsTUKD7C5y18"
+    },
+    {
+      "id": "5-3",
+      "time": "12:00",
+      "icon": "📍",
+      "title": "1981 Soul&Sold",
+      "area": "曼谷",
+      "desc": "復古百貨"
+    },
+    {
+      "id": "5-4",
+      "time": "13:30",
+      "icon": "🍜",
+      "title": "Café Lom",
+      "area": "曼谷",
+      "desc": "特色咖啡廳",
+      "mapUrl": "https://maps.app.goo.gl/ZmQQb15UNtoDDDtH7",
+      "hours": "08:00-17:00"
+    },
+    {
+      "id": "5-5",
+      "time": "16:00",
+      "icon": "🛍️",
+      "title": "Central World",
+      "area": "曼谷",
+      "trs": "🚶 步行約 10-15 分鐘,或搭一站 BTS 至 Chit Lom",
+      "desc": "曼谷最大的購物中心之一,品牌齊全。",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=CentralWorld+Bangkok",
+      "hours": "10:00-22:00"
+    },
+    {
+      "id": "5-6",
+      "time": "18:00",
+      "icon": "📍",
+      "title": "Central World Skywalk",
+      "area": "曼谷",
+      "desc": "戶外空橋可俯瞰整個 Ratchaprasong 商圈,傍晚華燈初上時段最美。",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=CentralWorld+Skywalk"
+    },
+    {
+      "id": "5-7",
+      "time": "19:30",
+      "icon": "🍜",
+      "title": "晚餐 - 最後一晚,自由選擇",
+      "area": "曼谷",
+      "desc": "建議挑一間清單裡還沒吃過、最想吃的口袋名單餐廳。"
+    }
+  ]
+}

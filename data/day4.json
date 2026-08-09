@@ -1,0 +1,63 @@
+{
+  "day": 4,
+  "date": "9/27",
+  "wd": "週日",
+  "cities": [
+    "曼谷"
+  ],
+  "hotel": "曼谷市區飯店（請填入實際飯店名稱）",
+  "highlight": "恰圖恰周末市集",
+  "items": [
+    {
+      "id": "4-1",
+      "time": "10:00",
+      "icon": "📍",
+      "title": "恰圖恰周末市集",
+      "area": "曼谷",
+      "trs": "🚕飯店搭車20-30分鐘",
+      "desc": "新手建議可逛2-4區，如需上廁所可至附近商場 Mixt Chatuchak Mall 或 紅樓 或JJ Mall",
+      "hours": "05:00-00:00"
+    },
+    {
+      "id": "4-2",
+      "time": "12:00",
+      "icon": "🍜",
+      "title": "午餐 - Ronin Pizza Lard Phrao 18",
+      "area": "曼谷",
+      "trs": "🚕搭車15分鐘",
+      "desc": "Pizza、義大利麵、燉飯、炸物、沙拉、甜點，餐點口味不錯，價格合理。"
+    },
+    {
+      "id": "4-3",
+      "time": "14:00",
+      "icon": "📍",
+      "title": "曼谷新景點 - Café Amazon Experience Flagship Store Ari",
+      "area": "曼谷",
+      "trs": "🚕搭車15分鐘",
+      "mustEat": [
+        {
+          "name": "Café Amazon Experience Flagship Store Ari — 6層樓美術館般咖啡廳"
+        },
+        {
+          "name": "MADBACON — 特色選物店"
+        }
+      ]
+    },
+    {
+      "id": "4-4",
+      "time": "17:00",
+      "icon": "🍜",
+      "title": "晚餐",
+      "area": "曼谷",
+      "trs": "🚕搭車20分鐘",
+      "mustEat": [
+        {
+          "name": "lay lao - Silom — 特色泰式小吃"
+        },
+        {
+          "name": "Good Goods — 選物店"
+        }
+      ]
+    }
+  ]
+}
